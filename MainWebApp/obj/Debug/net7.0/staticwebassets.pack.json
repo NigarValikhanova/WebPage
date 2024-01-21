@@ -1,0 +1,1349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MainWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MainWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\Admin\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\scss\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\Admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\fonts\\SofiaProBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SofiaProBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\5da1238b-189e-4cb1-99a5-bc1529fac839blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\5da1238b-189e-4cb1-99a5-bc1529fac839blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\62fd6d86-787a-4d3c-9808-7b760e9a6057blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\62fd6d86-787a-4d3c-9808-7b760e9a6057blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\746b248c-ea67-442f-853a-9ab57c823366blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\746b248c-ea67-442f-853a-9ab57c823366blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\cc8ffdb1-ce79-4743-801e-ceb30aa16d81blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cc8ffdb1-ce79-4743-801e-ceb30aa16d81blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\ed15fadc-bf5e-4564-8f6d-48fee6f2ea30blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\ed15fadc-bf5e-4564-8f6d-48fee6f2ea30blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog\\ee734172-233d-4433-8791-4dec46b43a84blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\ee734172-233d-4433-8791-4dec46b43a84blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\blog_title_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_title_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand1.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand2.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand3.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand4.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand5.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand6.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand6.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\brands\\brand7.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand7.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\cart-item-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\cart-item-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\cart-item-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\collection_grid_1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\collection_grid_2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\collection_grid_3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\deal_timer_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\deal_timer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo10\\slider_bg.png",
+      "PackagePath": "staticwebassets\\images\\home\\demo10\\slider_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo1\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo1\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo1\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo1\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\home\\demo3\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo3\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta1.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta10.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta11.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta12.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta2.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta3.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta4.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta5.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta6.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta7.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta8.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\instagram\\insta9.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\lookbook\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\mega-menu-item.jpg",
+      "PackagePath": "staticwebassets\\images\\mega-menu-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\nav-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\nav-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\newsletter-popup.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter-popup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\pattern_bg.png",
+      "PackagePath": "staticwebassets\\images\\pattern_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\payment-options.png",
+      "PackagePath": "staticwebassets\\images\\payment-options.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\2c7a3778-68e6-404b-8a9f-9cbd6aca7324product_2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2c7a3778-68e6-404b-8a9f-9cbd6aca7324product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\5e5a81fb-968f-4530-8088-a04a81084670product_3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5e5a81fb-968f-4530-8088-a04a81084670product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\7a74b671-de06-477c-8979-a9965075bfceproduct_7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7a74b671-de06-477c-8979-a9965075bfceproduct_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\86337a3b-8b99-4be3-b429-d03bfbd75e65product_5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\86337a3b-8b99-4be3-b429-d03bfbd75e65product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\87d4403c-959e-4693-95c3-deefc094cf1eproduct_8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\87d4403c-959e-4693-95c3-deefc094cf1eproduct_8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\aa8e37a6-616d-446e-a3a8-dbecb5638d9cproduct_6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\aa8e37a6-616d-446e-a3a8-dbecb5638d9cproduct_6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\b6e7d261-26d2-4dcb-a370-fafd9de7368fproduct_1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b6e7d261-26d2-4dcb-a370-fafd9de7368fproduct_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\bdfe758e-01c7-4f51-a259-51743f54b4e9product_4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bdfe758e-01c7-4f51-a259-51743f54b4e9product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-17-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-17-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-17-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-17-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-18-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-18-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-19-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-19-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-19-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-20-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-20-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-20-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-20-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-21-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-21-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-21-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-21-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-22-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-22-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-22-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-23-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-23-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-24-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-25-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-26-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-26-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-26-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-27-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-27-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-27-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-27-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-28-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-28-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-28-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-28-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-29-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-29-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-29-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-29-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-30-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-31-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-31-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-32-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-32-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-33-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-33-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-35-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-35-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-36-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-36-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-37-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-37-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-38-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-38-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-39-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-39-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-40-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-40-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-41-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-41-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product-42-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-42-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-4.png",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0-9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_10-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_12-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_13-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_14-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_14.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_15.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_16-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_9-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\product_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\quickview_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\quickview_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\quickview_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\quickview_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\swatch_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\swatch_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\products\\swatch_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item4.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item5.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item5.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item6.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item6.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item7.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item7.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\category-item8.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item8.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\shop_banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\shop_banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\shop_banner8.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner8.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\shop_banner_2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner_2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\shop\\shop_banner_character1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner_character1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\size-guide.jpg",
+      "PackagePath": "staticwebassets\\images\\size-guide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\slideshow-character2.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-character2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\images\\slideshow-pattern.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\details-disclosure.js",
+      "PackagePath": "staticwebassets\\js\\details-disclosure.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\googlemap-setting.js",
+      "PackagePath": "staticwebassets\\js\\googlemap-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\share.js",
+      "PackagePath": "staticwebassets\\js\\share.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\MainWebApp\\MainWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MainWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MainWebApp.props",
+      "PackagePath": "build\\MainWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MainWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MainWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MainWebApp.props",
+      "PackagePath": "buildTransitive\\MainWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
