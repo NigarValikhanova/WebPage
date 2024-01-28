@@ -3,6 +3,8 @@
 <h1> First Project - MainWebApp</h1>
 I create a great Admin Panel
 
+I also create responsive views
+
 ASP.NET core MVC
 DBContext
 Identity
